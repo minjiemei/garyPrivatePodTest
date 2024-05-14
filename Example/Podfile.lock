@@ -1,0 +1,16 @@
+PODS:
+  - garyPrivatePodTest (0.1.0)
+
+DEPENDENCIES:
+  - garyPrivatePodTest (from `../`)
+
+EXTERNAL SOURCES:
+  garyPrivatePodTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  garyPrivatePodTest: 8d9760da4fa92713a94f917d88de92f5dab99e00
+
+PODFILE CHECKSUM: 8158438b163bdf363a16b24dabfe3cccaa9578f9
+
+COCOAPODS: 1.15.0
